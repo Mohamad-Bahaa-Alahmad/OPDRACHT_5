@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fa39fabf-1f15-4972-b185-641cfdd62cf9": {
+      "ProjectGuid": "fa39fabf-1f15-4972-b185-641cfdd62cf9",
+      "DisplayName": "Menu",
+      "ColorIndex": 0
+    },
+    "b8a34682-0d0f-4b3e-8dd3-80f245ab54b9": {
+      "ProjectGuid": "b8a34682-0d0f-4b3e-8dd3-80f245ab54b9",
+      "DisplayName": "GemiddeldeMDI",
+      "ColorIndex": 1
+    },
+    "c475b245-354b-485e-bdaf-64fc1c7367ed": {
+      "ProjectGuid": "c475b245-354b-485e-bdaf-64fc1c7367ed",
+      "DisplayName": "Rechthoek",
+      "ColorIndex": 2
+    },
+    "a75cbe4f-1ca0-4c6f-b9b4-66861d7b7c7b": {
+      "ProjectGuid": "a75cbe4f-1ca0-4c6f-b9b4-66861d7b7c7b",
+      "DisplayName": "Oefening3",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

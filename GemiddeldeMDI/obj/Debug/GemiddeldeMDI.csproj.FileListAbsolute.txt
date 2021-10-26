@@ -1,0 +1,13 @@
+C:\Users\bahaa\source\repos\GemiddeldeMDI\bin\Debug\GemiddeldeMDI.exe.config
+C:\Users\bahaa\source\repos\GemiddeldeMDI\bin\Debug\GemiddeldeMDI.exe
+C:\Users\bahaa\source\repos\GemiddeldeMDI\bin\Debug\GemiddeldeMDI.pdb
+C:\Users\bahaa\source\repos\GemiddeldeMDI\obj\Debug\GemiddeldeMDI.csproj.AssemblyReference.cache
+C:\Users\bahaa\source\repos\GemiddeldeMDI\obj\Debug\GemiddeldeMDI.csproj.SuggestedBindingRedirects.cache
+C:\Users\bahaa\source\repos\GemiddeldeMDI\obj\Debug\GemiddeldeMDI.Form3.resources
+C:\Users\bahaa\source\repos\GemiddeldeMDI\obj\Debug\GemiddeldeMDI.Gemiddelde.resources
+C:\Users\bahaa\source\repos\GemiddeldeMDI\obj\Debug\GemiddeldeMDI.Properties.Resources.resources
+C:\Users\bahaa\source\repos\GemiddeldeMDI\obj\Debug\GemiddeldeMDI.csproj.GenerateResource.cache
+C:\Users\bahaa\source\repos\GemiddeldeMDI\obj\Debug\GemiddeldeMDI.csproj.CoreCompileInputs.cache
+C:\Users\bahaa\source\repos\GemiddeldeMDI\obj\Debug\GemiddeldeMDI.exe
+C:\Users\bahaa\source\repos\GemiddeldeMDI\obj\Debug\GemiddeldeMDI.pdb
+C:\Users\bahaa\source\repos\GemiddeldeMDI\obj\Debug\GemiddeldeMDI.Form1.resources

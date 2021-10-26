@@ -1,0 +1,12 @@
+C:\Users\bahaa\source\repos\Oefening3\bin\Debug\Oefening3.exe.config
+C:\Users\bahaa\source\repos\Oefening3\bin\Debug\Oefening3.exe
+C:\Users\bahaa\source\repos\Oefening3\bin\Debug\Oefening3.pdb
+C:\Users\bahaa\source\repos\Oefening3\obj\Debug\Oefening3.csproj.AssemblyReference.cache
+C:\Users\bahaa\source\repos\Oefening3\obj\Debug\Oefening3.csproj.SuggestedBindingRedirects.cache
+C:\Users\bahaa\source\repos\Oefening3\obj\Debug\Oefening3.Form1.resources
+C:\Users\bahaa\source\repos\Oefening3\obj\Debug\Oefening3.Properties.Resources.resources
+C:\Users\bahaa\source\repos\Oefening3\obj\Debug\Oefening3.csproj.GenerateResource.cache
+C:\Users\bahaa\source\repos\Oefening3\obj\Debug\Oefening3.csproj.CoreCompileInputs.cache
+C:\Users\bahaa\source\repos\Oefening3\obj\Debug\Oefening3.exe
+C:\Users\bahaa\source\repos\Oefening3\obj\Debug\Oefening3.pdb
+C:\Users\bahaa\source\repos\Oefening3\obj\Debug\Oefening3.Form2.resources
